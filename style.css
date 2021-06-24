@@ -3,7 +3,10 @@ body {
 	font-family: 'Raleway Medium', 'arial';
 	width: 1200px;
 	margin-bottom: 0;
+<<<<<<< HEAD
 	margin: auto;
+=======
+>>>>>>> 065d6d5ea1322454df748f63a5357a0c66b2e76e
 }
 
 #header {
@@ -730,7 +733,11 @@ h5 {
 }
 
 /* iPads (portrait and landscape) ----------- */
+<<<<<<< HEAD
 @media only screen and /*device-*/(min-width: 501px) and /*device-*/(max-width: 1024px) 
+=======
+@media only screen and /*device-*/(min-width : 501px) and /*device-*/(max-width : 1024px) 
+>>>>>>> 065d6d5ea1322454df748f63a5357a0c66b2e76e
 {
 	body {
 		width: auto;
