@@ -467,7 +467,7 @@ h5 {
 
 #A_propos {
 	background-color: rgb(242,242,242);
-	width: 1155px;
+	width: 1145px;
 	height: 175px;
 }
 
@@ -492,8 +492,8 @@ h5 {
 
 	body 
 	{
-		margin-left: 20px;
 		margin-bottom: 0;
+		margin: auto;
 	}
 
 	header 
@@ -734,8 +734,7 @@ h5 {
 
 {
 	body {
-		width: auto;
-		margin-left: -20px;
+		margin: auto;
 	}
 
 	#hebpop {
